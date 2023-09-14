@@ -15,3 +15,7 @@ The notions and references we had to delve into to proceed in the project are:
 - Background material on Optimal Transport
 - Papers: https://drive.google.com/drive/folders/1eqy6dxU_MOPbKC6CsTG942loJfdBcMnl?usp=share_link
 
+
+
+
+
