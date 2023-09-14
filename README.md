@@ -1,8 +1,10 @@
 # Generative-models-for-data-assimilation
 
-- Attempt: togheter with other few students in the project we tried to build a new generative model for data assimilation trough Optimal Transport
+- Attempt: togheter with other few students in the project I tried to build a new generative model for data assimilation trough Optimal Transport.
 - Supervisors: prof. Giulio Trigila (CUNY) and prof. Ricardo Baptista (CalTech).
-- Info: This project was part of Polymath Jr. summer program (https://geometrynyc.wixsite.com/polymathreu) 
+- Info: This project was part of Polymath Jr. summer program (https://geometrynyc.wixsite.com/polymathreu)
+
+After studying the notions needeed for understanding the project, I worked on the code written by the professors (https://github.com/GiulioTrigila/MoonExample/blob/main/MoonExampleRC.ipynb), in particular I focused on trying to optimize the code.
 
 In many real-world problems, the data doesn’t arrive all at once and, in practice, the unknown state is evolving over time.
 Our goal is to update our belief for the state as we sequentially collect observations. 
@@ -14,6 +16,7 @@ The notions and references we had to delve into to proceed in the project are:
 - Background material on: Kalman FIltering and Ensemble Kalman filtering
 - Background material on Optimal Transport
 - Papers: https://drive.google.com/drive/folders/1eqy6dxU_MOPbKC6CsTG942loJfdBcMnl?usp=share_link
+
 
 
 
