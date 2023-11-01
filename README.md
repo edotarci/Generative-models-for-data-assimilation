@@ -1,6 +1,6 @@
 # Generative-models-for-data-assimilation
 
-- Attempt: togheter with other few students in the project I tried to build a new generative model for data assimilation trough Optimal Transport.
+- Attempt: togheter with other few students in the project I tried to build a generative model for data assimilation trough Optimal Transport.
 - Supervisors: prof. Giulio Trigila (CUNY) and prof. Ricardo Baptista (CalTech).
 - Info: This project was part of Polymath Jr. summer program (https://geometrynyc.wixsite.com/polymathreu)
 
