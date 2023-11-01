@@ -4,8 +4,6 @@
 - Supervisors: prof. Giulio Trigila (CUNY) and prof. Ricardo Baptista (CalTech).
 - Info: This project was part of Polymath Jr. summer program (https://geometrynyc.wixsite.com/polymathreu)
 
-After studying the notions needeed for understanding the project, I worked on the code written by the professors (https://github.com/GiulioTrigila/MoonExample/blob/main/MoonExampleRC.ipynb), in particular I focused on trying to optimize the code.
-
 In many real-world problems, the data doesn’t arrive all at once and, in practice, the unknown state is evolving over time.
 Our goal is to update our belief for the state as we sequentially collect observations. 
 This process, known as data assimilation is divided into two parts: forecast and analysis.
