@@ -8,7 +8,9 @@ In many real-world problems, the data doesn’t arrive all at once and, in pract
 Our goal is to update our belief for the state as we sequentially collect observations. 
 This process, known as data assimilation is divided into two parts: forecast and analysis.
 
-We focused on the analysis part; sequentially estimating and correctly simulating (conditional) densities from samples is a very hard task for high dimensional problems but a map from a prior ρ(xt|y1:t−1) to a posterior ρ(xt|y1:t) is a useful tool to estimate and simulate the posterior distribution. To find such a map we used the framework of optimal transport 
+We focused on the analysis part; sequentially estimating and correctly simulating (conditional) densities from samples is a very hard task for high dimensional problems but a map from a prior ρ(xt|y1:t−1) to a posterior ρ(xt|y1:t) is a useful tool to estimate and simulate the posterior distribution. To find such a map we used the framework of optimal transport.
+
+We worked on the code written togheter with the professors (see MoonExampleRC.ipynb).
 
 The notions and references we had to delve into to proceed in the project are:
 - Background material on: Kalman FIltering and Ensemble Kalman filtering
